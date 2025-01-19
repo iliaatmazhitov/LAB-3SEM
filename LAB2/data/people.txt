@@ -1,0 +1,3 @@
+Download Dataset from: https://www.kaggle.com/datasets/new-york-city/nyc-citywide-payroll-data?resource=download
+
+After that rename it to «people.csv» and save to «data» folder.
